@@ -117,9 +117,41 @@
   
   
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R8XP7NP2L2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R8XP7NP2L2');
+</script>
+
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyDqP9-6X2sEhQHDfpA-jxKypBBC-oEk8yk",
+      authDomain: "AIzaSyDqP9-6X2sEhQHDfpA-jxKypBBC-oEk8yk",
+      projectId: "hpnguyendendogram",
+      storageBucket: "hpnguyendendogram.appspot.com",
+      messagingSenderId: "307402254873",
+      appId: "1:307402254873:web:8df5d6de3f0f48c0d81888",
+      measurementId: "G-EQP99MSE1C"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -414,6 +446,22 @@
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
+    
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/tags/"
+            title="Tags">Tags</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/categories/"
+            title="Categories">Categories</a>
+        </li>
+        
+      </ul>
+    </nav>
     
   
   <div class="flex items-center justify-between">
