@@ -114,13 +114,13 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyDqP9-6X2sEhQHDfpA-jxKypBBC-oEk8yk"
+  authDomain = "hpnguyendendogram.firebaseapp.com"
+  projectId = "hpnguyendendogram"
+  storageBucket = "hpnguyendendogram.appspot.com"
+  messagingSenderId = "307402254873"
+  appId = "1:307402254873:web:8df5d6de3f0f48c0d81888"
+  measurementId = "G-EQP99MSE1C"
 
 [fathomAnalytics]
   # site = "ABC12345"
