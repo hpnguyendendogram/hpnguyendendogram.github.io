@@ -10,14 +10,14 @@ title = "hpnguyendendogram"
   dateFormat = "2 January 2006"
   logo = "img/circledendogram.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Xin chào mọi người, mình là Hoàng Phước Nguyên, mọi người cũng có gọi mình là Alex (tên nghe tây tây chút để mai mốt có gì vươn ra biển lớn thôi) hoặc là Nguyên (cái tên mình, cũng là cái tên mình yêu nhất) đều được. Mình thích viết, viết về mọi thứ, viết về mọi chủ đề nên đảm bảo không làm các bạn chán nếu tham quan blog nhỏ này của mình đâu."
+  # description = "Xin chào mọi người, mình là Hoàng Phước Nguyên, mọi người cũng có gọi mình là Alex (tên nghe tây tây chút để mai mốt có gì vươn ra biển lớn thôi) hoặc là Nguyên (cái tên mình, cũng là cái tên mình yêu nhất) đều được. Mình thích viết, viết về mọi thứ, viết về mọi chủ đề nên đảm bảo không làm các bạn chán nếu tham quan blog nhỏ này của mình đâu."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Hoàng Phước Nguyên"
   image = "img/hpnguyendendogram.png"
   headline = "Mọi việc khó, không có Nguyên lo!!!"
-  bio = "A little bit about you"
+  #bio = "A little bit about you"
   links = [
     { email = "nguyenhoang0106hpn@gmail.com" },
     { link = "https://hpnguyendendogram.github.io/" },
