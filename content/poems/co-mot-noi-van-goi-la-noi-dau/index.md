@@ -6,7 +6,6 @@ description: "Câu chuyện về một con hẻm nghèo..."
 slug: "cauchuyen1"
 tags: ["truyện ngắn", "văn thơ"]
 ---
-
 Mấy dạo gần đây xe cháo lòng của bác Lợi vẫn ế ẩm, chắc cũng vì trời đã vào mùa mưa, khi dở khi ương nên khách thường ăn cũng lướt xe vội vàng hơn qua xe cháo của bác mà không buồn ngoái đầu lại nhìn. Dì Huệ, chí ít cũng là người bác coi là bạn tâm sự tuổi già, bán trứng vịt lộn sát bên bác thở than:
 
 “Tôi là tôi ghét trời vậy nè, chả làm ăn được gì. Thôi tôi cho ông hai cái trứng ăn lấy thảo rồi tôi dọn quầy.”
@@ -86,4 +85,3 @@ Bác Lợi vẫn trầm tư như vậy, không nói không rằng. Cô Xuân đi
 “Bà trả tiền thuê trọ hộ tôi, xe cháo lòng với mấy cái vặt vãnh khác tôi bán hết cho bà Tư ve chai sát bên nhà rồi, tầm chiều tối người ta qua lấy, có gì bà phụ tôi dọn hết mấy cái nồi treo trên bếp rồi mang ra hết cho người ta. Chỗ tiền bán ve chai với cọc tiền này bà cứ nhận lấy, tôi cho bà hết. Số tôi không có biết xài tiền nên bà cũng đừng có ngại ngần gì mà nhận cho tôi vui.”
 
 Chúng ta đã già rồi, tiền bạc có mang đi theo được đâu? Tại sao ông lại cho tôi? Tôi gặp ông cũng chỉ là để nói chào tạm biệt ông thôi mà, ông lại làm khó tôi quá. Chỉ mong nếu gặp ông ở kiếp sau, hai ta lúc đó sẽ thanh thản hơn trong cuộc sống của chính mình, không còn bị những nỗi đau như thế này hành hạ mỗi ngày nữa, được không?
-
