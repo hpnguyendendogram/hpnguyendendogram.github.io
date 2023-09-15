@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hpnguyendendogram.com/sitemap.xml
+Sitemap: https://hpnguyendendogram.github.io/sitemap.xml
