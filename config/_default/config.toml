@@ -16,7 +16,7 @@ buildDrafts = false
 buildFuture = false
 
 googleAnalytics = "G-R8XP7NP2L2"
-disqusShortname = 'hpnguyendendogram'
+# disqusShortname = 'hpnguyendendogram'
 
 [imaging]
   anchor = 'Center'
