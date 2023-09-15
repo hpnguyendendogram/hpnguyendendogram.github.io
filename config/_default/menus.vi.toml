@@ -53,6 +53,11 @@
   pageRef = "posts"
   weight = 20
 
+[[main]]
+  pre = "github"
+  url = "https://github.com/hpnguyendendogram"
+  weight = 30
+
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
