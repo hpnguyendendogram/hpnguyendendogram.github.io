@@ -12,46 +12,46 @@
 
 [[main]]
   name = "Chút văn thơ"
-  pageRef = "posts"
+  pageRef = "poems"
   weight = 10
 
-[[main]]
-  name = "Khoa học máy tính"
-  weight = 20
+#[[main]]
+#  name = "Khoa học máy tính"
+#  weight = 20
 
-[[main]]
-  name = "Lý thuyết & Tính toán"
-  parent = "Khoa học máy tính"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "Lý thuyết & Tính toán"
+#  parent = "Khoa học máy tính"
+#  pageRef = "posts"
+#  weight = 20
 
-[[main]]
-  name = "Học máy & Thống kê"
-  parent = "Khoa học máy tính"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "Học máy & Thống kê"
+#  parent = "Khoa học máy tính"
+#  pageRef = "posts"
+#  weight = 20
 
-[[main]]
-  name = "Toán học"
-  weight = 20
+#[[main]]
+#  name = "Toán học"
+#  weight = 20
 
-[[main]]
-  name = "Thuật toán tối ưu"
-  parent = "Toán học"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "Thuật toán tối ưu"
+#  parent = "Toán học"
+#  pageRef = "posts"
+#  weight = 20
 
-[[main]]
-  name = "Đại số tuyến tính"
-  parent = "Toán học"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "Đại số tuyến tính"
+#  parent = "Toán học"
+#  pageRef = "posts"
+#  weight = 20
 
-[[main]]
-  name = "Giải tích"
-  parent = "Toán học"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "Giải tích"
+#  parent = "Toán học"
+#  pageRef = "posts"
+#  weight = 20
 
 [[main]]
   pre = "github"
