@@ -6,6 +6,7 @@ description: "Câu chuyện về một con hẻm nghèo..."
 slug: "cauchuyen1"
 tags: ["truyện ngắn", "văn thơ"]
 ---
+
 Mấy dạo gần đây xe cháo lòng của bác Lợi vẫn ế ẩm, chắc cũng vì trời đã vào mùa mưa, khi dở khi ương nên khách thường ăn cũng lướt xe vội vàng hơn qua xe cháo của bác mà không buồn ngoái đầu lại nhìn. Dì Huệ, chí ít cũng là người bác coi là bạn tâm sự tuổi già, bán trứng vịt lộn sát bên bác thở than:
 
 “Tôi là tôi ghét trời vậy nè, chả làm ăn được gì. Thôi tôi cho ông hai cái trứng ăn lấy thảo rồi tôi dọn quầy.”
