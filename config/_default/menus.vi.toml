@@ -15,6 +15,11 @@
   pageRef = "poems"
   weight = 10
 
+[[main]]
+  name = "Thường thức"
+  pageRef = "tips"
+  weight = 10
+
 #[[main]]
 #  name = "Khoa học máy tính"
 #  weight = 20
