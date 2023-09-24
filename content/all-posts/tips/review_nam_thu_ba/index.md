@@ -33,7 +33,7 @@ Nói chung thì học kỳ này với từng đấy môn cũng khá ổn áp, �
 
 ### Lập trình cho khoa học dữ liệu:
 
-Lập trình cho khoa học dữ liệu là một cái tên kiêu sa của FIT (tên gọi chung cho khoa công nghệ thông tin của HCMUS) chứ thực chất thì môn này dạy cách sử dụng nhuần nhuyễn các công cụ để xử lý dữ liệu bảng thường thấy là Python với thư viện Numpy, Pandas, Mathplotlib… Đa phần chúng đều hữu ích trên dữ liệu dạng bảng. 
+Lập trình cho khoa học dữ liệu là một cái tên kiêu sa của FIT (tên gọi chung cho khoa công nghệ thông tin của HCMUS) chứ thực chất thì môn này dạy cách sử dụng nhuần nhuyễn các công cụ để xử lý dữ liệu bảng thường thấy là Python với thư viện Numpy, Pandas, Mathplotlib.
 
 Hồi đó mình học thầy **BTL** (cho mình được phép viết tắt tên các thầy/cô vì đây là “dữ liệu” nhạy cảm), cách dạy của thầy khá thú vị vì xoay quanh việc hỏi và đáp trên một nhóm Zalo ở những buổi học. Như mình đã nói, việc thấy thú vị hay phấn khởi ở một môn nào đó thì nó chỉ tồn tại ở một, hai buổi đầu thôi, qua buổi thứ ba là mình chán cách dạy này kinh khủng. Việc truyền đạt của thầy cũng không quá tệ song có đôi phần rất buồn ngủ (thật lòng xin lỗi thầy), có lẽ vì nội dung bài giảng nhiều lúc khá nhàm chán hoặc thầy dạy những cái mình đã biết. Để giải quyết tình trạng này thì mình thường hay mua cà phê ở Circle K gần trường mỗi lúc nghỉ giữa giờ.
 
@@ -139,11 +139,11 @@ Không có mẹo gì ở đây cả, các bạn hãy học nghiêm túc (hoặc 
 
 ### Khai thác dữ liệu và ứng dụng:
 
-Môn học này giống như học máy nâng cao, cũng học lại vài thứ bên học máy và một số thứ bên nhập môn khoa học dữ liệu song lại đi sâu hơn về từng mảng lý thuyết, đặc biệt lý thuyết về dữ liệu cũng như cách xử lý chúng. Nhìn chung môn này cũng rất khó nhai, đề thi ở dạng đánh đố, vận dụng nhuần nhuyễn các kỹ thuật khai phá dữ liệu trong quá trình học để giải và quan trọng hơn hết là phải có tư duy mở để giải các bài (chém đấy).
+Môn học này giống như học máy, nhưng ở mức độ chi tiết hơn và kết hợp với một số nội dung khác bên môn nhập môn khoa học dữ liệu.  Điểm đặc biệt của môn này là đi sâu hơn về từng mảng lý thuyết, đặc biệt lý thuyết về dữ liệu cũng như cách xử lý chúng. Nhìn chung môn này cũng rất khó nhai, đề thi ở dạng đánh đố, vận dụng nhuần nhuyễn các kỹ thuật khai phá dữ liệu trong quá trình học để giải và quan trọng hơn hết là phải có tư duy mở để giải các bài (chém đấy).
 
 Mình học thầy **LHB**, vốn là một giáo sư đầu ngành nên thầy cũng có rất nhiều kinh nghiệm trong việc giảng dạy cũng như có một số liên kết, vận dụng kiến thúc thú vị. Các buổi thầy lên lớp cũng không bị chán, thường thì thầy sẽ không cho dùng laptop và hạn chế với điện thoại nên việc tập trung cũng được cải thiện. Việc điểm danh thường ở bữa cuối học kỳ bởi thầy có quan điểm một cho tất cả, việc điểm danh chỉ đơn thuần là cộng trực tiếp vào điểm tổng kết môn học (cộng 0.5 điểm) mà không gây bất lợi gì. 
 
-Nội dung môn học được phân bố mỗi tuần như sau:
+Nội dung môn học được phân bố mỗi tuần như sau (chi tiết thì rất dài nên mình xin phép được lược bỏ, chỉ ghi các mục tương ứng):
 
 - Giới thiệu về môn học và khái niệm khai thác dữ liệu.
 - Chuẩn bị dữ liệu (giống như phần chuẩn bị dữ liệu của môn nhập môn khoa học dữ liệu).
@@ -158,8 +158,14 @@ Phổ điểm của môn như sau:
 	- Khai thác mẫu phổ biến.
 	- Cây quyết định và gom cụm dữ liệu.
 - Bài thi giữa kỳ chiếm 20% tổng số điểm:
-	- Từ phần đầu đến phần gom cụm, đề thi cũng khá đánh đố nhưng nếu ban học kỹ và hiểu thì ổn.
+	- Từ phần đầu đến phần gom cụm, đề thi cũng khá đánh đố nhưng nếu ban học kỹ và hiểu thì ổn. Trước buổi thi thầy sẽ đưa một tệp bài ôn tập, các bạn làm trong đó để xem mình hiểu tới đâu (chứ cũng không có ra đề giống trong đó, kiểm tra kiến thức thôi).
 - Bài thi cuối kỳ chiếm 50% tổng số điểm:
-	- Từ đầu học kỳ cho đến cuối học kỳ, có nội dung nào thì cứ tống vô đầu và hiểu hết.
+	- Từ đầu học kỳ cho đến cuối học kỳ, có nội dung nào thì cứ tống vô đầu và hiểu hết. Đề mở nên bạn có thể mang cả thư viện HCMUS vô cũng được.
+
+Các mẹo để học (sống) tốt  (sót) qua môn này:
+
+- Khuyến khích hoàn toàn: Việc ghi chú bằng laptop sẽ bị thầy cấm nên là cứ dùng vở truyền thống để ghi (mang ipad vô cũng được). Thầy sẽ không đăng slide lên Moodle nên là cứ mỗi slide thầy giảng, bạn cứ chụp lén (đừng để thầy thấy vì chắc chắn thầy sẽ nói câu “chụp gì mà chụp hoài”), hay cách tối ưu hơn là ghi lại ý chính, mô tả sơ thuật toán rồi về nhà kiếm bài tập trên mạng làm lại.
+- Khuyến khích hoàn toàn: Đề thi ít nhiều cũng giống với các năm trước (thầy có thể lấy một phần chứ không lấy hết), nếu có đề thi mấy năm trước thì cứ lôi ra làm nhuần nhuyễn để ôn tập và chuẩn bị thi cử.
+- Khuyến khích chưa chắc: Các trợ giảng ở môn này có phần nương tay hơn, vì họ biết phổ điểm mỗi năm như nào (hoặc không).
 
 Thế là hết học kỳ một rồi, chắc còn lâu lắm mới viết tiếp học kỳ hai và học kỳ ba, hẹn gặp các bạn sớm tại giảng đường đại học.
