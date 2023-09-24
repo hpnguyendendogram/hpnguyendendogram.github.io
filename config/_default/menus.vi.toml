@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Chút văn thơ"
-  pageRef = "poems"
+  name = "Thường thức"
+  pageRef = "tips"
   weight = 10
 
 [[main]]
-  name = "Thường thức"
-  pageRef = "tips"
+  name = "Chút văn thơ"
+  pageRef = "poems"
   weight = 10
 
 #[[main]]
