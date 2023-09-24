@@ -141,7 +141,7 @@ Không có mẹo gì ở đây cả, các bạn hãy học nghiêm túc (hoặc 
 
 Môn học này giống như học máy, nhưng ở mức độ chi tiết hơn và kết hợp với một số nội dung khác bên môn nhập môn khoa học dữ liệu.  Điểm đặc biệt của môn này là đi sâu hơn về từng mảng lý thuyết, đặc biệt lý thuyết về dữ liệu cũng như cách xử lý chúng. Nhìn chung môn này cũng rất khó nhai, đề thi ở dạng đánh đố, vận dụng nhuần nhuyễn các kỹ thuật khai phá dữ liệu trong quá trình học để giải và quan trọng hơn hết là phải có tư duy mở để giải các bài (chém đấy).
 
-Mình học thầy **LHB**, vốn là một giáo sư đầu ngành nên thầy cũng có rất nhiều kinh nghiệm trong việc giảng dạy cũng như có một số liên kết, vận dụng kiến thúc thú vị. Các buổi thầy lên lớp cũng không bị chán, thường thì thầy sẽ không cho dùng laptop và hạn chế với điện thoại nên việc tập trung cũng được cải thiện. Việc điểm danh thường ở bữa cuối học kỳ bởi thầy có quan điểm một cho tất cả, việc điểm danh chỉ đơn thuần là cộng trực tiếp vào điểm tổng kết môn học (cộng 0.5 điểm) mà không gây bất lợi gì. 
+Mình học thầy **LHB**, vốn là một giáo sư đầu ngành nên thầy cũng có rất nhiều kinh nghiệm trong việc giảng dạy cũng như có một số liên kết, vận dụng kiến thúc thú vị. Các buổi thầy lên lớp cũng không bị chán, thường thì thầy sẽ không cho dùng laptop và hạn chế với điện thoại nên việc tập trung cũng được cải thiện. Việc điểm danh thường ở bữa cuối học kỳ bởi thầy có quan điểm một cho tất cả, nó chỉ đơn thuần là cộng trực tiếp vào điểm tổng kết môn học (cộng 0.5 điểm) mà không gây bất lợi gì. 
 
 Nội dung môn học được phân bố mỗi tuần như sau (chi tiết thì rất dài nên mình xin phép được lược bỏ, chỉ ghi các mục tương ứng):
 
