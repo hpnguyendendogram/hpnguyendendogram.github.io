@@ -2,6 +2,6 @@
 title: "hpnguyendendogram"
 description: "Một chiếc blog về cuộc sống, học hành, kiến thức và thơ văn."
 ---
-Xin chào mọi người, mình là Hoàng Phước Nguyên, là sinh viên năm thứ tư chuyên ngành khoa học máy tính, mọi người cũng có gọi mình là Alex (tên nghe tây tây chút để mai mốt có gì vươn ra biển lớn thôi) hoặc là Nguyên (cái tên mình, cũng là cái tên mình yêu nhất) đều được. Mình thích viết, viết về mọi thứ, viết về mọi chủ đề nên đảm bảo không làm các bạn chán nếu tham quan blog nhỏ này của mình đâu.
+"Cách dễ dàng nhất để làm sai một điều gì đó là làm sai nó ngay từ đầu" - Ph.D Andrew Critch, UC Berkeley.
 
-Trong quá trình viết, có thể mình có sai sót ở một số chỗ, hoặc có những thứ làm bạn khó chịu, thì có thể bình luận ngay chính bài đó để mình sửa nhé.
+Xin chào mọi người, mình là Phước Nguyên, rất hân hạnh được đón tiếp các bạn vào ngôi nhà tinh thần này của mình. Ở đây, mình sẽ chia sẻ những câu chuyện ở trường, chuyện về kiến thức, chuyện về những nhân vật giả tưởng của mình... vân vân và ti tỉ những chuyện khác nữa. Hy vọng mình sẽ mang đến cho bạn một điều gì đó hữu ích để hỗ trợ bạn một phần trên con đường tìm kiếm hạnh phúc của chính bạn.
