@@ -168,4 +168,6 @@ Các mẹo để học (sống) tốt  (sót) qua môn này:
 - Khuyến khích hoàn toàn: Đề thi ít nhiều cũng giống với các năm trước (thầy có thể lấy một phần chứ không lấy hết), nếu có đề thi mấy năm trước thì cứ lôi ra làm nhuần nhuyễn để ôn tập và chuẩn bị thi cử.
 - Khuyến khích chưa chắc: Các trợ giảng ở môn này có phần nương tay hơn, vì họ biết phổ điểm mỗi năm như nào (hoặc không).
 
-Thế là hết học kỳ một rồi, chắc còn lâu lắm mới viết tiếp học kỳ hai và học kỳ ba, hẹn gặp các bạn sớm tại giảng đường đại học.
+Thế là hết học kỳ một rồi, chắc còn lâu lắm mới viết tiếp học kỳ hai và học kỳ ba, hẹn gặp các bạn sớm tại giảng đường đại học. 
+
+-END-
