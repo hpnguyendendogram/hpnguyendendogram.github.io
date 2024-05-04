@@ -18,7 +18,7 @@ Cũng gần mấy tháng trời mới lại gõ một bài viết có vẻ dài 
 
 Hôm nay cũng vừa là lúc đăng ký học phần, mình nghía qua một lượt các môn trong danh sách và tự hỏi sao hồi đó học nhiều thế, đồng thời cũng tự cảm ơn những người đồng đội đã hỗ trợ mình vượt qua chúng (Đông Thức, Nhật Trường, Quý Trung cùng vài bạn chung nhóm khác) vì nếu không có họ thì chắc giờ việc học lại ngán hơn gấp bội với mình. Quay trở lại với việc chính, động lực lớn nhất để mình gõ nguyên cái chuỗi bài này là để lưu trữ một phần kỷ niệm của năm ba - năm mới bước vào chuyên ngành khoa học máy tính của sinh viên công nghệ thông tin - vừa để xem lại gần một năm qua kiến thức lẫn ấn tượng của mình với từng môn học như thế nào.
 
-Nào, cùng bắt đầu thôi!
+Nào, cùng bắt đầu chuỗi bài nhìn lại các môn học thôi!
 
 ## Học kỳ một:
 
