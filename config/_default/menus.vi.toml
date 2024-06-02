@@ -11,77 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Thường thức"
-  pageRef = "tips"
+  name = "Chút se sẻ"
   weight = 10
+
+[[main]]
+  name = "Ngưỡng đại học"
+  parent = "Chút se sẻ"
+  pageRef = "university"
+  weight = 20
 
 [[main]]
   name = "Chút văn thơ"
   pageRef = "poems"
-  weight = 10
-
-#[[main]]
-#  name = "Khoa học máy tính"
-#  weight = 20
-
-#[[main]]
-#  name = "Lý thuyết & Tính toán"
-#  parent = "Khoa học máy tính"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "Học máy & Thống kê"
-#  parent = "Khoa học máy tính"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "Toán học"
-#  weight = 20
-
-#[[main]]
-#  name = "Thuật toán tối ưu"
-#  parent = "Toán học"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "Đại số tuyến tính"
-#  parent = "Toán học"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "Giải tích"
-#  parent = "Toán học"
-#  pageRef = "posts"
-#  weight = 20
-
-[[main]]
-  pre = "github"
-  url = "https://github.com/hpnguyendendogram"
   weight = 30
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
+#[[main]]
 #  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
+#  url = "https://github.com/hpnguyendendogram"
 #  weight = 30
 
 

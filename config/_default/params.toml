@@ -15,10 +15,10 @@ enableCodeCopy = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageOptimization = true
 
-defaultBackgroundImage = "/img/homepage.jpg" # used as default for background images 
-defaultFeaturedImage = "/img/homepage.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "/img/homepage.svg" # used as default for background images 
+defaultFeaturedImage = "/img/homepage.svg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -30,17 +30,17 @@ smartTOCHideUnfocusedChildren = true
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/homepage.jpg" # used in: hero, and card
-  showRecent = true
+  homepageImage = "img/homepage.svg" # used in: hero, and card
+  showRecent = false
   showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "all-posts"
+  showMoreLinkDest = "/all-posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

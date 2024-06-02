@@ -4,7 +4,7 @@ date: 2024-05-04
 draft: false
 description: Một chút lời nhận xét về một năm ba đại học...
 slug: share2
-series: ["Nhìn lại một số môn năm ba"]
+series: ["KHMT - KMDL HCMUS"]
 series_order: 2
 tags:
   - đại học
@@ -12,9 +12,9 @@ tags:
   - hcmus
 ---
 
-## Giới thiệu môn: Lập trình cho khoa học dữ liệu.
+Các thông tin có trong bảng, phân bổ điểm được viết dưới đây có thể bị thay đổi qua từng học kỳ nhưng về nội dung của môn học thì mình khá chắc là không bị ảnh hưởng nhiều nên các bạn cứ yên tâm mà tham khảo. Bài khảo sát môn dưới đây được viết vào học kỳ 1, năm học 2022-2023.
 
-Các thông tin có trong bảng có thể bị thay đổi qua từng năm, kể cả nội dung môn học hay phân bổ số điểm.
+## Giới thiệu môn: Lập trình cho khoa học dữ liệu.
 
 |Thông tin|Giá trị|
 |---|---|
@@ -26,7 +26,7 @@ Các thông tin có trong bảng có thể bị thay đổi qua từng năm, k�
 |Giảng viên thực hành|Thầy LNN, thầy PTN|
 
 
-Lập trình cho khoa học dữ liệu là một cái tên kiêu sa của FIT (tên gọi chung cho khoa công nghệ thông tin của HCMUS) chứ thực chất thì môn này dạy cách sử dụng nhuần nhuyễn các công cụ để xử lý dữ liệu bảng thường thấy là Python với thư viện Numpy, Pandas, Mathplotlib.
+Lập trình cho khoa học dữ liệu là một cái tên kiêu sa của FIT (tên gọi chung cho khoa công nghệ thông tin của HCMUS) đặt nên chứ thực chất thì môn này dạy cách sử dụng nhuần nhuyễn các công cụ để xử lý dữ liệu dạng bảng thường thấy là Python với thư viện **Numpy, Pandas, Mathplotlib** và **Beautiful Soup** để cào dữ liệu từ các trang web. 
 
 ## Một số cảm nghĩ về môn học: 
 
@@ -48,12 +48,12 @@ Các chủ đề mà LTCKHDL cung cấp cho bạn như sau:
 
 ## Phân bổ điểm:
 
-- Các bài thực hành chiếm toàn bộ 50% điểm khóa học, được chia đều cho ba bài thực hành sau đây:
+Các bài thực hành chiếm toàn bộ 50% điểm khóa học, được chia đều cho ba bài thực hành sau đây:
 	- Cài đặt Conda và các câu lệnh Linux đơn giản: Ở bài này thì mình sẽ tiến hành cài đặt môi trường lập trình cho khoa học dữ liệu do các trợ giảng yêu cầu, sau đó sử dụng các lệnh Linux và Python cơ bản để hoàn thành các dòng mã trống nằm rải rác khắp tệp Notebook được yêu cầu. Bài thực hành này giúp mình tư duy trên các thư viện hay cấu trúc dữ liệu được tích hợp sẵn trong Python mà không sử dụng thư viện ngoài (có dùng thì trừ điểm).
 	- Làm việc với Numpy: Bài này khác bài trên ở chỗ chỉ sử dụng các câu lệnh từ thư viện Numpy (không được dùng vòng lặp hay mấy thứ gì đó trợ giảng yêu cầu) để hoàn thành tệp Notebook. Bài này cũng khá khoai, lơ tơ mơ là mất điểm như chơi. 
 	- Làm việc với Pandas: Chỉ sử dụng các lệnh từ thư viện Pandas để thực hiện một quy trình dữ liệu. Độ khó của bài này cũng tăng tiến theo từng yêu cầu, nói chung cũng khá khoai.
-	- 
-- Có hai đồ án trong khóa học, một cái gọi là đồ án giữa kỳ và cái còn lại là đồ án cuối kỳ. Với đồ án giữa thì thì phân bố điểm sẽ là 20%, đồ án cuối kỳ là 30%, nội dung chi tiết như sau:
+  
+Có hai đồ án trong khóa học, một cái gọi là đồ án giữa kỳ và cái còn lại là đồ án cuối kỳ. Với đồ án giữa thì thì phân bố điểm sẽ là 20%, đồ án cuối kỳ là 30%, nội dung chi tiết như sau:
 	- Đồ án giữa kỳ: Các bạn sẽ làm seminar cùng các đồng đội chí cốt của mình về một chủ đề lập trình nào đó trong khoa học dữ liệu. Nhóm có quyền tự do lựa chọn những chủ đề mình muốn (trừ các chủ đề liên quan quá nhiều đến học sâu), nhóm mình thì chọn tổng quan về Github và điểm cũng khá cao. Trong quá trình làm thì thầy có yêu cầu nhóm mình đặt câu hỏi cho nhóm khác qua Zalo (tất nhiên là không có lấy điểm), hoặc đôi khi thầy sẽ hỏi những chỗ mình nói tào lao (tất nhiên là trừ điểm nếu bạn nói tào lao một lần nữa).
 	- Đồ án cuối kỳ: Các bạn sẽ thực hiện một đồ án mô tả quy trình khoa học dữ liệu, từ việc thu thập cho đến tiền xử lý dữ liệu, trực quan và đưa ra câu hỏi phù hợp. Đồ án được đưa sẵn từ rất sớm, thầy sẽ ưu tiên với dữ liệu là Việt Nam hơn là thế giới (mình thì làm với thế giới và việc đó cũng chẳng sao, nhưng biết đâu mỗi năm sẽ khác và thầy sẽ yêu cầu chặt hơn?). Cuối học kỳ trợ giảng sẽ chấm điểm qua việc vấn đáp với nhóm bạn. 
 

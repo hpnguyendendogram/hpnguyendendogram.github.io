@@ -1,6 +1,6 @@
 ---
-title: Nhìn lại một vài môn ở năm ba đại học - Học kỳ một
-date: 2023-09-22
+title: Nhập môn khoa học dữ liệu
+date: 2024-05-04
 draft: false
 description: Một chút lời nhận xét về một năm ba đại học...
 slug: share1
